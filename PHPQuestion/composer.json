@@ -1,0 +1,10 @@
+{
+    "name": "root/php-question",
+    "authors": [
+        {
+            "name": "Vikash Ruhil",
+            "email": "Vikash.Ruhil@makemytrip.com"
+        }
+    ],
+    "require": {}
+}
